@@ -1,3 +1,3 @@
 # hello-world
 Sample repository
-test
+A way to greet vistors. Alernates: namaste, vanakkam, etc.
