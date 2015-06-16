@@ -1,0 +1,8 @@
+---
+applications:
+- name: hello
+  buildpack: ruby_buildpack
+  instance: 1
+  path: .
+  command: ruby hello.rb
+  hostname: yjayaramanhello
